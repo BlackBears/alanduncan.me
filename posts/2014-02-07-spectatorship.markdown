@@ -3,8 +3,8 @@ layout: post
 title: Why I won't watch the Super Bowl
 date: 2014-02-07 12:15:00
 comments: false
-categories: [octopress]
-tags: Culture
+categories: [culture]
+tags: Culture 
 ---
 
 Every year around the time of the Super Bowl, I wonder if I'm ever going to bother to learn the rules of American football.  I suspect not, since at age 48 I've never made it through an entire game start-to-finish.
@@ -19,7 +19,7 @@ The world and individuals progress by _doing something_.  Watching isn't doing.
 
 **Spectacle as commercial vehicle.  Buying fans**
 
-The phenomenon of the Super Bowl commercial has elevated the event to near holiday status.  Many people who would not otherwise watch football, tune in to the Super Bowl solely to see the clever, creative commercials.[^1]  That companies collectively spend over $220 billion[^2] on television ads suggests that the association between the game and the marketing of products and services unrelated to the game is no accident.  But this alliance benefits no one but the companies themselves.  In a sense, the football game itself, which should be a celebration and test of athletic accomplishment, is merely a vehicle for delivering something more potent.  Like the cigarette which exists only to deliver nicotine, the Super Bowl exists mostly to deliver marketing.
+The phenomenon of the Super Bowl commercial has elevated the event to near holiday status.  Many people who would not otherwise watch football, tune in to the Super Bowl solely to see the clever, creative commercials.[^1]  That companies collectively spend over $220 million[^2] on television ads suggests that the association between the game and the marketing of products and services unrelated to the game is no accident.  But this alliance benefits no one but the companies themselves.  In a sense, the football game itself, which should be a celebration and test of athletic accomplishment, is merely a vehicle for delivering something more potent.  Like the cigarette which exists only to deliver nicotine, the Super Bowl exists mostly to deliver marketing.
 
 **Opportunity costs**
 
