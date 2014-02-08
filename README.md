@@ -1,10 +1,5 @@
-<<<<<<< HEAD
-http://alanduncan.me
+### alanduncan.me ###
 
-Except for the blog content, feel free to grab my Hakyll code.
-=======
-alanduncan.me
-=============
+The source code (and content for my personal weblog).
 
-My personal blog source code
->>>>>>> 9ba66629d6aadf6d30a234cd13faf46e1184d22a
+You may use what ever you like from this source code with the sole exception of the weblog content.
