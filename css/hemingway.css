@@ -552,7 +552,7 @@ ul.pages ul li{
 	float:left;
 	width:14px;
 	height:13px;
-	background:url(images/search.gif) 0 0 no-repeat;
+	background:url(../images/search.gif) 0 0 no-repeat;
 	position:relative;
 	top:4px;
 }
