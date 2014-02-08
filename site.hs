@@ -18,6 +18,11 @@ import           Text.Blaze.Html ((!), toHtml, toValue)
 import qualified Text.Blaze.Html5 as H
 import qualified Text.Blaze.Html5.Attributes as A
 
+--------------------------------------------------------------------------------
+config :: Configuration
+config = defaultConfiguration
+        {   deployCommand = "osascript /Users/alan/Documents/dev/scripts+tools/applescript/scripts/active/sync-blog-s3.scpt" }
+
 -- Allow for reference style links in markdown
 pandocWriteOptions = defaultHakyllWriterOptions
     { writerReferenceLinks = True
@@ -25,7 +30,7 @@ pandocWriteOptions = defaultHakyllWriterOptions
 
 --------------------------------------------------------------------------------
 main :: IO ()
-main = hakyll $ do
+main = hakyllWith config $ do
 
     match "templates/*" $ compile templateCompiler
 
