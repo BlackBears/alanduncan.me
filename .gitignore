@@ -4,3 +4,5 @@ site
 site.o
 site.hi
 /drafts
+
+/.DS_Store
