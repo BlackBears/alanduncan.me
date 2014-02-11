@@ -4,14 +4,18 @@ Title: Photography
 
 I'm an off-and-on photographer.  Right now, I'm in an off phase.
 
+There are a few things I like to capture.
+
 <a href="http://www.flickr.com/photos/_alan_/319162292/in/set-72157594412144888"><img src="/images/Grown up.jpg" alt="Grown up" style="float: left; padding-right: 10px;" /></a>
 **Abandonment**
 
-As a photographer, I have an unnatural predilection for things abandoned, lost, and forgotten because of what it says about us as humans and about the living context in which we find ourselves.  In scenes of abandonment, nature invariably exercises its control over the built environment, first in one small crack, then eventually consuming it in an eerie tableau.  The great photographer, William Eggleston, famously commented: _"I am at war with the obvious."_[^1]
+As a photographer, I have an unnatural predilection for things abandoned, lost, and forgotten because of what it says about us as humans and about the living context in which we find ourselves.  In scenes of abandonment, nature invariably exercises its control over the built environment, first in one small crack, then eventually consuming it in an eerie tableau.  The great photographer, William Eggleston, famously commented: _"I am at war with the obvious."_[^1]  
+
+To see something commonplace discarded, forgotten, abandoned, or misued, breaks us out of the obvious and into a world of unreality, shaking us out of one dream into another, full of symbols and meaning.
 
 About ourselves, it speaks like the Buddha of our own impermanence.  To meditate on scenes of abandonment opens us to acceptance that we, too, will be overtaken.  To accept abandonment is to accept mortality.
 
-I photographed "Grown up" in 2006 when I returned to a place that I played as a child.  The swimming pool, tennis courts and playground had been long abandoned and left to nature.  The feeling was like a post-apocalyptic moment.  This place had been a swim club in the deep South, an oasis of segretation at a time when public swimming pools were beginning to open to all children.  Not only does has this forgotten place come to symbolize the passing of childhood; but also the passing of a stain on our history.
+I photographed "Grown up" in 2006 when I returned to a place that I played as a child.  The swimming pool, tennis courts and playground had been long abandoned and left to nature.  The feeling was like a post-apocalyptic moment.  This place had been a swim club in the deep South, an oasis of segretation at a time when public swimming pools were beginning to open to all children.  Not only did this forgotten place come to symbolize the passing of childhood; but also the passing of a stain on our history.
 <br /><br />
 <br /><br />
 <!-- <img src="/images/the ball's in your court.jpg" alt="The ball's in your court" style="float: left; padding-right: 10px;" /> -->
@@ -20,9 +24,9 @@ I photographed "Grown up" in 2006 when I returned to a place that I played as a 
 </a>
 I photographed _"The ball's in your court"_ at the same place.  
 <br />
-I was struck by the scene of a weather-beaten chair sitting on the sideline of the right service court as if someone had pulled up a seat to watch a game at some unusual angle.  Or just to imaging what it would be like to sit their during a match, services flying by at unimaginable speed.
+I was struck by the scene of a weather-beaten chair sitting on the sideline of the right service court as if someone had pulled up a seat to watch a game at some unusual angle.  Or just to imagine what it would be like to sit there during a match, services flying by at incredible speed.
 <br /><br />
-The weather court had begun to exfoliate under the intense southern sun, revealing layers upon layers of resurfacing.  Someone had carefully applied these layers without giving the slightest thought that they would be buried, then revealed again in time by a passer-by, a casual urban archaeologist.
+The weathered court had begun to exfoliate under the intense southern sun, revealing layers upon layers of resurfacing.  Someone had carefully applied these layers without giving the slightest thought that they would be buried, then revealed again in time by a passer-by, a casual urban archaeologist.
 <br /><br />
 In each crack, long tufts of ratty grass had taken hold, pushing up more layers of material, widening the clefts, consuming the courts in their wake.
 <br /><br />
