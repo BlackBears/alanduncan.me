@@ -12,6 +12,9 @@ import           System.FilePath (takeBaseName, takeFileName)
 import           Data.Time.Format (parseTime)
 import           Data.List (isPrefixOf, tails, findIndex)
 
+-- pygments server
+import System.IO.Streams.Process (runInteractiveProcess)
+
 import           Text.Blaze.Html.Renderer.String (renderHtml)
 import           Text.Blaze.Internal (preEscapedString)
 import           Text.Blaze.Html ((!), toHtml, toValue)
@@ -70,6 +73,24 @@ main = hakyllWith config $ do
                     >>= loadAndApplyTemplate f (postCtx tags)
                     >>= loadAndApplyTemplate "templates/default.html" allCtx
                     >>= wordpressifyUrls
+
+    -- Match all special violin lesson pages
+    forM_ [("pages/violinlessons/*", "templates/page.html", "templates/pagefooter.html")] $ \(p, t, f) ->
+        match p $ do
+            route $ wordpressRoute
+            compile $ do
+                let allCtx =
+                        field "recent" (\_ -> recentPostList) `mappend`
+                        defaultContext
+
+                pandocCompilerWith defaultHakyllReaderOptions pandocWriteOptions
+                    >>= saveSnapshot "teaser"
+                    >>= loadAndApplyTemplate t (postCtx tags)
+                    >>= saveSnapshot "content"
+                    >>= loadAndApplyTemplate f (postCtx tags)
+                    >>= loadAndApplyTemplate "templates/default.html" allCtx
+                    >>= wordpressifyUrls
+
 
     -- Build special pages
     forM_ ["index.markdown", "404.markdown", "search.markdown"] $ \p ->
