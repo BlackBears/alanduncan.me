@@ -1,0 +1,15 @@
+---
+title:  Violin Lesson #20:  Relaxation and Balance
+---
+
+_(Note: This is a transcription of an online violin lesson given by expert teacher Todd Ehle.  I've transcribed it here as a memory aid for myself and a service to others.  Please do not use this in any way to profit from Mr. Ehle's work.  The [video](http://www.youtube.com/watch?v=mJvGpIf7ugc&list=PL51559D48D033EED9&index=2) for this lesson is available on YouTube.)_
+
+Hi.  I'm going to talk about relaxation rocking side-to-side while bowing and string crossing.
+
+First, if you're really new to this, I just want your to bow down and up.  But you're going to get your balance on both feet.  Bow up and down on the A string.  While you're doing that, move to the __left__ on the __downbow__ and lean towards the __right__ on your upbow __upbow__.  It's a tiny amount of motion so you feel freedom.  Freedom - nothing is stiff.  Unlock your knees.  Make sure they're springy.  To the left, then back.  Just a couple inches of bow is all - not too much.  Keep your instrument parallel to the floor.
+
+Once you can do that easily, on your upbow as you're coming to the right, roll your bow over to the D string.  Do it with your entire arm.  It will not just be a hand motion.  You're going to move the whole arm. [Demonstrates] I'm going to upbow, moving to the right, roll the whole arm to the D string.  Then you're going to roll back to A. Watch my elbow first - I'll stand still.  The elbow moves with it, at first.  It's an entire arm motion.  To the right on the upbow.  To the left on the downbow.  [Demonstrates more rapid crossings] We're going free ourselves up here.  Feel that relaxation?  Upbow - you roll to the right foot - shift your weight to the right foot.  Downbow - roll your weight to the left foot.  Weight transfer.  And scroll motion.  We're still not using much bow, OK?
+
+Now we're going to go all the way over to the G string.  So downbow, I start with my scroll in a little bit.  Roll.  At this point go to the G.  Now the elbow came up.  And I will move to the left [while crossing to higher strings].  In triplets [plays G-D-A A-D-G in triplets]l.  Are you still parallel to the bridge?  Swing.  What you are doing is contrary motion.  When you go upbow, your violin will go slightly to the right. When you go down[bow] your violin moves slightly to the left.  So roll!  And rock on your feet.  Not large motions; just small motions. 
+
+This should help free you up, give you a sense of relaxation.  It also gives motion.  The audience will like to see motion, instead of being still. If you're very still, sometimes the audience says: "Oh, he's uninvolved in the music.""  Which is not true of course; but if they are not musicians, and they are just listening, sometimes in a concert setting having something visual will help as well.  So they will think that you are into the music.  But mostly it's about freeing you up and teaching relaxation.  So give it a shot.  Hope it helps.
