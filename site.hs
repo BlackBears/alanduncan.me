@@ -31,6 +31,7 @@ pandocWriteOptions = defaultHakyllWriterOptions
     { writerReferenceLinks = True
     }
 
+
 --------------------------------------------------------------------------------
 main :: IO ()
 main = hakyllWith config $ do
