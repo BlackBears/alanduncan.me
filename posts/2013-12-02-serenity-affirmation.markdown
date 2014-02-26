@@ -9,15 +9,14 @@ As a family member of a person with addiction, I've thought a lot about how AA a
 
 Here's my version of the Serenity Affirmation:
 
-{% blockquote %}"May my practice give me the serenity to accept the things I cannot change,
+> "May my practice give me the serenity to accept the things I cannot change,
 The courage to change the things I can, and the wisdom to know the difference.
 
-May I live one day at a time,
+> May I live one day at a time,
 Enjoy one moment at a time, and
 Accept life's hardships as a sign of impermanence.
 May I live in the world as it is, not as I would have it,
 Finding happiness wherever I am."
-{% endblockquote %}
 
 Adapted from [other](http://whitewashone.tumblr.com/post/693370720/the-serenity-prayer-secular-version) [sources](http://zenhumanism.blogspot.com/2012/04/serenity-prayer-for-non-theists.html).
 
