@@ -10,13 +10,13 @@ As I've [written before]() I'm increasingly worried about how our society in the
 
 The unquestioned philosophy of US exceptionalism has the unintended consequence of causing us to fail to strive.  Societies perform best when striving for a collective goal.  WWII.  Sputnik.  These were moments in US history when we engaged collective action.  People took their mutual responsibilities seriously. Today, it seems, we lack a reason to strive.  In a sense we are unwitting victims of our own success; and the threats to our economic and social security are subtle and slow-acting.  It's not to nuclear holocaust that we'll succumb, but to the slowly decaying competitiveness and irrelevance.  As T.S Eliot wrote: "Not with a bang, but a whimper."
 
-Our collective ambition is in decay.  We've been etherized by countless distractions - social technology, pro sports, Dancing with the Stars, and stupid cat videos.  Our attention has been stolen from us and given to the unethical purveyors of _"entertainment."_  Succinctly, we're not serious about the sorts of things that will ensure our country's success.
+Our collective ambition is in decay.  We've been etherized by countless distractions - social technology, pro sports, Dancing with the Stars, and stupid cat videos.  Our attention has been stolen from us by the unethical purveyors of _"entertainment."_  Succinctly, we're not serious about the sorts of things that will ensure our country's success.
 
 ###Kids and a window to the future###
 
 If we wish to glimpse the future we need only to contemplate our young.  Are our kids driven to distraction by SMS, Facebook, Twitter, Snapchat?  Then we will all soon live in a society that is so distracted that we can't look each other in the eye.
 
-Are our kids falling behind in our international education rankings?  Then we had better resign ourselves to a second class on the international stage.
+Are our kids falling behind in our international education rankings?  Then we had better resign ourselves to a second class status on the international stage.
 
 None of this is irreversible, of course; but we need to analyze cause and effect to create a world in which we prefer to live.
 
@@ -30,7 +30,7 @@ The worldwide economic upheavals and the political strife over healthcare, Socia
 
 ###Inattention###
 
-Nothing that is unattended-to develops in a positive way.  As the universe tends toward chaos, inattentive parenting yields disordered kids.  Children need direction, gentle nudges in the right direction, discipline, consistency, and help with goal-setting.  Trusting schools and recreational soccer clubs to do the long-term work of child development is misplaced.  Parents must simply make development of their children their top priority.  Are you reading about child psychology?  Are you doing thier homework with them?  Are you reading books or playing with your iPad?  Are you looking out keenly for their strengths?  Are you modeling for them the behaviors that will equip them for success?
+Nothing that is unattended-to develops in a positive way.  Just as a closed system tends toward chaos, inattentive parenting yields disordered kids.  Children need direction, gentle nudges in the right direction, discipline, consistency, and help with goal-setting.  Trusting schools and recreational soccer clubs to do the long-term work of child development is misplaced.  Parents must simply make development of their children their top priority.  Are you reading about child psychology?  Are you doing thier homework with them?  Are you reading books yourself; or are you playing with your iPad?  Are you looking out keenly for their strengths?  Are you modeling for them the behaviors that will equip them for success?
 
 What's good for kids is good for our country.  
 
