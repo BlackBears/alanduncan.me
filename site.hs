@@ -13,7 +13,7 @@ import           Data.Time.Format (parseTime)
 import           Data.List (isPrefixOf, tails, findIndex)
 
 -- pygments server
-import System.IO.Streams.Process (runInteractiveProcess)
+--import System.IO.Streams.Process (runInteractiveProcess)
 
 import           Text.Blaze.Html.Renderer.String (renderHtml)
 import           Text.Blaze.Internal (preEscapedString)
