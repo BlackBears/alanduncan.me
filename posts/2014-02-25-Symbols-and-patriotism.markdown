@@ -1,7 +1,7 @@
 ---
 title: Symbols and patriotism
 date: 2014-02-25 14:50
-tags: Culture
+tags: Culture, Politics
 ---
 
 As a progressive, I lament that fellow liberals have granted US conservatives near exclusive ownership over the symbols of patriotism.  After all, why does the flag have to mean: "Insufficiently low marginal tax rates."?  Or "Health care is a privilege, not a right"?  Or "We believe in limiting the rights of gay people"?  
