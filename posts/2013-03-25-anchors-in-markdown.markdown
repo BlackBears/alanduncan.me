@@ -17,3 +17,15 @@ Beam me [up](#enterprise), Scotty
 ```
 
 It's a great way to move around in longer content.
+
+_2014-03-03: I no longer publish using Octopress; but this should work in most cases where Markdown is used.  Bitbucket is a notable exception.  For Github wiki, you'll need something like:_
+
+```html
+# <a name="heading1" /> Heading 1 #
+```
+
+and for the link to that anchor:
+
+```html
+[link to heading1](#heading1)
+```
