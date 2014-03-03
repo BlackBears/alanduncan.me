@@ -1,8 +1,9 @@
 ---
 title: Symbols and patriotism
 date: 2014-02-25 14:50
-tags: Culture, Politics
+tags: Culture
 ---
+
 As a progressive, I lament that fellow liberals have granted US conservatives near exclusive ownership over the symbols of patriotism.  After all, why does the flag have to mean: "Insufficiently low marginal tax rates."?  Or "Health care is a privilege, not a right"?  Or "We believe in limiting the rights of gay people"?  
 
 Yet these symbols have clearly been co-opted.  A Harvard Kennedy School of Government Study in 2011 concluded that participation in Fourth of July events - parades, fireworks displays - all full of patriotic symbolism - increase potential voters' identification with Repulican candidates and increases their likelihood of voting for Republican candidates.  Furthermore, US Republican voters are more likely than liberals to claim their pride as a US citizen.[^1]
