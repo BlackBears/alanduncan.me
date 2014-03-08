@@ -6,7 +6,7 @@ tags: Child development, Culture
 
 _Pro patria, pro pueris._[^1]
 
-As I've [written before]() I'm increasingly worried about how our society in the US has come to view itself.  We are full of claims about American exceptionalism but can't rationally back them up.
+As I've [written before](/2014/02/25/Symbols-and-patriotism/) I'm increasingly worried about how our society in the US has come to view itself.  We are full of claims about American exceptionalism but can't rationally back them up.
 
 The unquestioned philosophy of US exceptionalism has the unintended consequence of causing us to fail to strive.  Societies perform best when striving for a collective goal.  WWII.  Sputnik.  These were moments in US history when we engaged collective action.  People took their mutual responsibilities seriously. Today, it seems, we lack a reason to strive.  In a sense we are unwitting victims of our own success; and the threats to our economic and social security are subtle and slow-acting.  It's not to nuclear holocaust that we'll succumb, but to the slowly decaying competitiveness and irrelevance.  As T.S Eliot wrote: "Not with a bang, but a whimper."
 
