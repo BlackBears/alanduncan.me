@@ -54,6 +54,10 @@ main = hakyllWith config $ do
         route   idRoute
         compile compressCssCompiler
 
+    match "galleries/**" $ do
+        route idRoute 
+        compile copyFileCompiler
+
     tags <- buildTags "posts/*" (fromCapture "label/*")
 
     -- Match all files under posts directory and its subdirectories.
