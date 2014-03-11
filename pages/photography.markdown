@@ -1,5 +1,5 @@
 ---
-Title: Photography
+title: Photography
 ---
 
 I'm an off-and-on photographer.  Right now, I'm in an off phase.
