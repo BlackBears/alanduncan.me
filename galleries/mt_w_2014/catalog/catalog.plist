@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>detailPreset</key>
+	<string>74c5fd83f02ec395a85eadd2c7bfa4c3</string>
+	<key>detailSize</key>
+	<string>{720, 540}</string>
+	<key>images</key>
+	<dict>
+		<key>B9XRpP7lSL+tfwkschxsbg</key>
+		<dict>
+			<key>index</key>
+			<integer>3</integer>
+			<key>modDate</key>
+			<date>2014-03-01T00:41:08Z</date>
+		</dict>
+		<key>FArCZdKLQXKyLR1y3OQrBw</key>
+		<dict>
+			<key>index</key>
+			<integer>2</integer>
+			<key>modDate</key>
+			<date>2014-02-28T04:15:50Z</date>
+		</dict>
+		<key>GQIY31m7SrO2bw06TKEQJw</key>
+		<dict>
+			<key>index</key>
+			<integer>1</integer>
+			<key>modDate</key>
+			<date>2014-02-26T21:54:14Z</date>
+		</dict>
+		<key>KAcRJNdjQYyCCyheeJatzQ</key>
+		<dict>
+			<key>index</key>
+			<integer>4</integer>
+			<key>modDate</key>
+			<date>2014-03-01T00:41:06Z</date>
+		</dict>
+		<key>YIiUHz+WTcerjpG%7EASpQ</key>
+		<dict>
+			<key>index</key>
+			<integer>5</integer>
+			<key>modDate</key>
+			<date>2014-03-02T06:15:46Z</date>
+		</dict>
+		<key>z0P5UCJ3RZGPtgXm8wn5SA</key>
+		<dict>
+			<key>index</key>
+			<integer>6</integer>
+			<key>modDate</key>
+			<date>2014-03-03T03:15:31Z</date>
+		</dict>
+	</dict>
+	<key>thumbPreset</key>
+	<string>9febe6c7f42ea4b8908768ced100bcdf</string>
+	<key>thumbSize</key>
+	<string>{150, 150}</string>
+	<key>version</key>
+	<integer>200</integer>
+</dict>
+</plist>
