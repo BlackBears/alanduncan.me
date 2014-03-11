@@ -7,5 +7,6 @@ Professor Todd Ehle, has given dozens of freely available violin lessons on YouT
 - Violin Lesson #15; __Tone production techniques__ ([video](http://www.youtube.com/watch?v=WZR_vx0Ghfc) | [transcription](/violinlessons/violinlesson15))
 - Violin Lesson #20; __Relax! Relaxation techniques__  ([video](http://youtu.be/RXcgPOK9X3I) | [transcription](/violinlessons/violinlesson20))
 - Violin Lesson #21; __Relaxation and Balance__  ([video](http://www.youtube.com/watch?v=mJvGpIf7ugc&list=PL51559D48D033EED9&feature=share&index=1) | [transcription](/violinlessons/violinlesson21))
+- New violin vibrato trick; __Vibrato trick for relaxation__ ([video](http://www.youtube.com/watch?v=H-_I7ouOnbg) | [transcription](/violinlessons/newviolinvibrato))
 
 _Comments? I'm `@NSBum`_
